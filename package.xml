@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<package format="1">
+  <name>Test Package</name>
+  <description>A test and demonstration of the new package.xml file format.</description>
+  <version>1.0.0</version>
+  <maintainer email="chennes@pioneerlibrarysystem.org">Chris Hennes</maintainer>
+  <license file="LICENSE">LGPL2</license>
+  <url type="repository">https://github.com/chennes/FreeCAD-Packages</url>
+
+  <content>
+    <preferencepack>
+      <name>Example Dark Color Scheme</name>
+      <description>Activates the ProDark color scheme and sets a few other program colors to better coordinate.</description>
+      <version>1.0.0</version>
+      <tag>colors</tag>
+      <tag>stylesheet</tag>
+    </preferencepack>
+  </content>
+
+</package>
