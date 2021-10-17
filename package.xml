@@ -5,7 +5,7 @@
   <version>1.0.0</version>
   <maintainer email="chennes@pioneerlibrarysystem.org">Chris Hennes</maintainer>
   <license file="LICENSE">LGPL2</license>
-  <url type="repository">https://github.com/chennes/FreeCAD-Packages</url>
+  <url type="repository" branch="main">https://github.com/chennes/FreeCAD-Packages</url>
   <url type="tracker">https://github.com/chennes/FreeCAD-Packages/issues</url>
   <url type="readme">https://github.com/chennes/FreeCAD-Packages/blob/main/README.md</url>
   <url type="website">https://freecad.org</url>
