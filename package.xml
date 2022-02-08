@@ -18,6 +18,7 @@
       <version>1.0.0</version>
       <tag>colors</tag>
       <tag>stylesheet</tag>
+      <freecadmin>0.21</freecadmin> <!-- For testing -->
     </preferencepack>
   </content>
 
