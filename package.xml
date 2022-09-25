@@ -19,7 +19,7 @@
       <tag>colors</tag>
       <tag>stylesheet</tag>
       <freecadmin>0.21</freecadmin> <!-- For testing -->
-      <depend type="python" version_gte="3.99">python</depend>
+      <pythonmin>3.99.0</pythonmin> <!-- For testing -->
     </preferencepack>
   </content>
 
